@@ -7,7 +7,10 @@
   "sideEffects": [
     "es5/register.js",
     "es6/register.js",
-    "src/register.ts"
+    "src/register.ts",
+    "es5/index.js",
+    "es6/index.js",
+    "src/index.ts"
   ],
   "description": "SimpleSchema 2 bridge for uniforms.",
   "repository": "https://github.com/vazco/uniforms/tree/master/packages/uniforms-bridge-simple-schema-2",
